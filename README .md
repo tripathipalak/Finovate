@@ -17,10 +17,10 @@ A clean, interactive finance dashboard built with React and Tailwind CSS. It all
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/finance-dashboard.git
+git clone https://github.com/tripathipalak/Finovate.git
 
 # Navigate into the project
-cd finance-dashboard
+cd finovate
 
 # Install dependencies
 npm install
