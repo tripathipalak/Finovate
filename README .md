@@ -2,7 +2,7 @@
 
 A clean, interactive finance dashboard built with React and Tailwind CSS. It allows users to track income, expenses, and spending patterns with role-based UI behavior.
 
-🔗 **Live Demo:** [https://your-project.vercel.app](https://finovate-xi.vercel.app/)
+🔗 **Live Demo:** [https://finovate-xi.vercel.app/](https://finovate-xi.vercel.app/)
 
 ---
 
