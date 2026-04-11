@@ -1,25 +1,3 @@
-// import { useApp } from "../context/AppContext";
-
-// const RoleSwitcher = () => {
-//   const { role, setRole } = useApp();
-
-//   return (
-//     <select
-//       value={role}
-//       onChange={(e) => setRole(e.target.value)}
-//       className="p-2 border rounded"
-//     >
-//       <option value="viewer">Viewer</option>
-//       <option value="admin">Admin</option>
-//     </select>
-//   );
-// };
-
-// export default RoleSwitcher;
-
-
-
-
 import { useApp } from "../context/AppContext";
 
 const RoleSwitcher = () => {
