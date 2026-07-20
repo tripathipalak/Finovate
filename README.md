@@ -107,7 +107,6 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 **Palak Mani Tripathi**
 
 GitHub: https://github.com/tripathipalak
-
 LinkedIn: https://www.linkedin.com/in/palak-mani-tripathi
 
 ---
